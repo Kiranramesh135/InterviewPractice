@@ -1,6 +1,5 @@
 package com.selenium.interviewpractice;
 
-import java.awt.List;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 
@@ -80,7 +79,7 @@ public class JavascriptExecutorPractice {
 			
 			ArrayList<String> a = new ArrayList<String>();
 			
-			int[] a1 = {1,2,3,4};
+//			int[] a1 = {1,2,3,4};
 			System.out.println(a.size());
 			
 			String b = "asdsadasda";
