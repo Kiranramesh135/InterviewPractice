@@ -14,6 +14,7 @@ public class TestLinkedList1 {
 		list.add("Shanta");
 		list.add("Pavan");
 		list.add("Kiran");
+		list.iterator();
 		
 		for(String obj:list) {
 			System.out.println(obj);
